@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 print("Enter the first number:")
 num1 = int(input())
 print("Enter the second number:")
