@@ -3,4 +3,4 @@ def upcase_it(text):
     """Upper case"""
     return text.upper()
 
-print("hello")
+print(upcase_it("hello"))
