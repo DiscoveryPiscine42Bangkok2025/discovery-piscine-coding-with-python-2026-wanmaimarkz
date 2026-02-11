@@ -6,4 +6,5 @@ if len(params) < 2:
     print("none")
 else:
     params.reverse()
-    print(params)
+    for i in params:
+        print(i)
