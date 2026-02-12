@@ -2,7 +2,6 @@
 from checkmate import checkmate
 
 def main():
-    # ทดสอบกระดาน
     board = """\
 ..P.
 ....
